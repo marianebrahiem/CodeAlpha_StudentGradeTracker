@@ -17,11 +17,10 @@ It allows users to input multiple students’ grades, calculate their average, h
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Java**
 - **ArrayLists** for dynamic data storage
 - **Scanner** for user input
 
 
-   git clone https://github.com/your-username/CodeAlpha_StudentGradeTracker.git
-   cd CodeAlpha_StudentGradeTracker
+   
